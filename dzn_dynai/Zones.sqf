@@ -27,6 +27,9 @@
 			3, /* Groups quantity */
 			/* Units */
 			[
+				["B_Soldier_F", [], "kit_uk_eng_sl"]
+				,["B_Soldier_F", [], "kit_uk_eng"]
+				,["B_Soldier_F", [], "kit_uk_eng"]
 			]
 		]
 	]

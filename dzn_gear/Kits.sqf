@@ -59,7 +59,7 @@ kit_cz_sj_gr = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",3],["HandGrenade",3],["O_IR_Grenade",2],["Chemlight_red",2],["SmokeShellRed",1],["SmokeShell",2],["PRIMARY MAG",6]]],
-	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",2],["CUP_PipeBomb_M",2],["1Rnd_HE_Grenade_shell",15],["CUP_1Rnd_StarCluster_Green_M203",1],["CUP_1Rnd_StarCluster_Red_M203",1],["1Rnd_Smoke_Grenade_shell",5],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_SmokeRed_Grenade_shell",1],["PRIMARY MAG",2]]]
+	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["HANDGUN MAG",2],["CUP_PipeBomb_M",2],["1Rnd_HE_Grenade_shell",15],["CUP_1Rnd_StarCluster_Green_M203",1],["CUP_1Rnd_StarCluster_Red_M203",1],["1Rnd_Smoke_Grenade_shell",5],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_SmokeRed_Grenade_shell",1],["PRIMARY MAG",2]]]
 ];
 
 kit_cz_sj_sl = [
@@ -70,7 +70,7 @@ kit_cz_sj_sl = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",3],["HandGrenade",3],["O_IR_Grenade",2],["Chemlight_red",2],["SmokeShellRed",1],["SmokeShell",2],["PRIMARY MAG",6]]],
-	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",2],["CUP_PipeBomb_M",2],["1Rnd_HE_Grenade_shell",15],["CUP_1Rnd_StarCluster_Green_M203",1],["CUP_1Rnd_StarCluster_Red_M203",1],["1Rnd_Smoke_Grenade_shell",5],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_SmokeRed_Grenade_shell",1],["PRIMARY MAG",2]]]
+	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["ZSN_Bugle",1],["ACE_tourniquet",2],["ACE_epinephrine",1],["ACE_MapTools",1],["CUP_PipeBomb_M",2],["HANDGUN MAG",1]]]
 ];
 
 kit_cz_sj_ftl = [
@@ -81,7 +81,7 @@ kit_cz_sj_ftl = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",3],["HandGrenade",3],["O_IR_Grenade",2],["Chemlight_red",2],["SmokeShellRed",1],["SmokeShell",2],["PRIMARY MAG",6]]],
-	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",2],["CUP_PipeBomb_M",2],["1Rnd_HE_Grenade_shell",15],["CUP_1Rnd_StarCluster_Green_M203",1],["CUP_1Rnd_StarCluster_Red_M203",1],["1Rnd_Smoke_Grenade_shell",5],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_SmokeRed_Grenade_shell",1],["PRIMARY MAG",2]]]
+	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["HANDGUN MAG",2],["CUP_PipeBomb_M",2],["1Rnd_HE_Grenade_shell",15],["CUP_1Rnd_StarCluster_Green_M203",1],["CUP_1Rnd_StarCluster_Red_M203",1],["1Rnd_Smoke_Grenade_shell",5],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_SmokeRed_Grenade_shell",1],["PRIMARY MAG",2]]]
 ];
 
 kit_cz_sj_r = [
@@ -91,7 +91,7 @@ kit_cz_sj_r = [
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",6],["HANDGUN MAG",3],["HandGrenade",3],["O_IR_Grenade",2],["Chemlight_red",2],["SmokeShellRed",1],["SmokeShell",2]]],
+	["<VEST ITEMS >> ",[["ACE_Clacker",1],["PRIMARY MAG",6],["HANDGUN MAG",3],["HandGrenade",3],["O_IR_Grenade",2],["Chemlight_red",2],["SmokeShellRed",1],["SmokeShell",2]]],
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",4],["HANDGUN MAG",2],["CUP_PipeBomb_M",2]]]
 ];
 
@@ -114,7 +114,7 @@ kit_cz_sj_br = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",14]]],
-	["<BACKPACK ITEMS >> ",[["CUP_PipeBomb_M",3],["CUP_HandGrenade_M67",10],["HANDGUN MAG",5]]]
+	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["CUP_PipeBomb_M",3],["CUP_HandGrenade_M67",10],["HANDGUN MAG",5]]]
 ];
 
 kit_cz_sj_sg = [
@@ -125,7 +125,7 @@ kit_cz_sj_sg = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_12Rnd_B_Saiga12_Slug",6],["CUP_12Rnd_B_Saiga12_Buck_4",5]]],
-	["<BACKPACK ITEMS >> ",[["CUP_12Rnd_B_Saiga12_HE",3],["CUP_PipeBomb_M",3],["HandGrenade",5],["rhs_mag_an_m8hc",5],["HANDGUN MAG",4]]]
+	["<BACKPACK ITEMS >> ",[["ACE_Clacker",1],["CUP_12Rnd_B_Saiga12_HE",3],["CUP_PipeBomb_M",3],["HandGrenade",5],["rhs_mag_an_m8hc",5],["HANDGUN MAG",4]]]
 ];
 
 kit_cz_sj_mm = [
