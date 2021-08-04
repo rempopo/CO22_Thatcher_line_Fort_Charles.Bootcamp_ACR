@@ -8,7 +8,7 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=1550;
+		nextID=1552;
 	};
 	class MarkerIDProvider
 	{
@@ -16,18 +16,18 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=544;
+		nextID=612;
 	};
 	class Camera
 	{
-		pos[]={1753.1881,310.82529,2797.3347};
-		dir[]={-0.84239054,-0.51821035,0.14853048};
-		up[]={-0.51043189,0.85517722,0.089999676};
-		aside[]={0.17365703,-1.3151439e-006,0.98491347};
+		pos[]={2052.4551,349.19025,1250.8184};
+		dir[]={-0.83337903,-0.44083488,-0.33338267};
+		up[]={-0.40929964,0.89758813,-0.16373511};
+		aside[]={-0.37142047,0,0.92846471};
 	};
 };
 binarizationWanted=0;
-sourceName="CO_22_Thatcher_line_Fort_Charles";
+sourceName="CO22_Thatcher_line_Fort_Charles";
 addons[]=
 {
 	"A3_Modules_F",
@@ -19187,11 +19187,11 @@ class Mission
 					dataType="Logic";
 					class PositionInfo
 					{
-						position[]={2437.9326,266.15402,2682.6128};
-						angles[]={0.079830915,2.5450742,6.2671871};
+						position[]={2608.0154,275.81009,2435.9993};
+						angles[]={0.08380425,2.5450742,6.2007027};
 					};
 					name="tSF_CoverMap";
-					areaSize[]={1000,0,1000};
+					areaSize[]={1000,0,1300};
 					areaIsRectangle=1;
 					flags=1;
 					id=1046;
@@ -19211,7 +19211,7 @@ class Mission
 				};
 			};
 			id=1045;
-			atlOffset=5.5470581;
+			atlOffset=5.2871094;
 		};
 		class Item8
 		{
@@ -41906,7 +41906,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="600";
+							value="60";
 						};
 					};
 				};
@@ -42073,7 +42073,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="600";
+							value="60";
 						};
 					};
 				};
@@ -42241,7 +42241,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="500";
+							value="50";
 						};
 					};
 				};
@@ -42341,7 +42341,7 @@ class Mission
 			fillName="FDiagonal";
 			a=50;
 			b=250;
-			angle=206.99544;
+			angle=206.99542;
 			id=1533;
 		};
 		class Item64

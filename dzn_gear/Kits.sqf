@@ -53,7 +53,7 @@
 //Czech Spec
 kit_cz_sj_gr = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_NPP2006_co_vz95","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet10","CUP_G_PMC_Facewrap_Tropical_Glasses_Dark"],
-	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK_DWN",""]],
+	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -64,7 +64,7 @@ kit_cz_sj_gr = [
 
 kit_cz_sj_sl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_NPP2006_co_vz95","tf_rt1523g_green","CUP_H_CZ_Helmet10","CUP_G_PMC_Facewrap_Tropical_Glasses_Dark"],
-	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK_DWN",""]],
+	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -75,7 +75,7 @@ kit_cz_sj_sl = [
 
 kit_cz_sj_ftl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_NPP2006_co_vz95","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet10","CUP_G_PMC_Facewrap_Tropical_Glasses_Dark"],
-	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK_DWN",""]],
+	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14_GL","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -86,7 +86,7 @@ kit_cz_sj_ftl = [
 
 kit_cz_sj_r = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_NPP2006_co_vz95","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet10","CUP_G_ESS_BLK_Scarf_Face_Grn_GPS"],
-	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK_DWN","CUP_bipod_Harris_1A2_L_BLK"]],
+	["<PRIMARY WEAPON >>  ","CUP_CZ_BREN2_762_14","CUP_30Rnd_762x39_CZ807",["muzzle_snds_B","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F","CUP_bipod_Harris_1A2_L_BLK"]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_RPG26_Loaded","CUP_RPG26_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -97,18 +97,18 @@ kit_cz_sj_r = [
 
 kit_cz_sj_ar = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_NPP2006_co_vz95","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet10","CUP_G_PMC_Facewrap_Tropical_Glasses_Dark"],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_CZ805_A1_blk","CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",["","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK","rhs_acc_harris_swivel"]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_CZ805_A1_blk","CUP_100Rnd_556x45_BetaCMag",["hlc_muzzle_556NATO_M42000","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F","rhs_acc_harris_swivel"]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_Phantom","CUP_18Rnd_9x19_Phantom",["muzzle_snds_L","CUP_acc_CZ_M3X","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["CUP_100Rnd_556x45_BetaCMag",7]]],
-	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["dzn_tripod_rifle",1],["PRIMARY MAG",1],["HandGrenade",5],["rhs_mag_an_m8hc",2]]]
+	["<VEST ITEMS >> ",[["PRIMARY MAG",7]]],
+	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["dzn_tripod_rifle",1],["HandGrenade",5],["rhs_mag_an_m8hc",2],["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",1]]]
 ];
 
 kit_cz_sj_br = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_vest18","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet09","rhs_scarf"],
-	["<PRIMARY WEAPON >>  ","CUP_smg_EVO","CUP_30Rnd_9x19_EVO",["muzzle_snds_L","CUP_acc_ANPEQ_2_Flashlight_Black_L","CUP_optic_AIMM_COMPM4_BLK",""]],
+	["<PRIMARY WEAPON >>  ","CUP_smg_EVO","CUP_30Rnd_9x19_EVO",["muzzle_snds_L","CUP_acc_ANPEQ_2_Flashlight_Black_L","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_SA61","CUP_20Rnd_B_765x17_Ball_M",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -119,7 +119,7 @@ kit_cz_sj_br = [
 
 kit_cz_sj_sg = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_vest18","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet09","CUP_RUS_Balaclava_blk"],
-	["<PRIMARY WEAPON >>  ","CUP_sgun_Saiga12K_top_rail","CUP_5Rnd_B_Saiga12_Slug",["","","rhsusf_acc_ACOG3_USMC",""]],
+	["<PRIMARY WEAPON >>  ","CUP_sgun_Saiga12K_top_rail","CUP_5Rnd_B_Saiga12_Slug",["","","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_SA61","CUP_20Rnd_B_765x17_Ball_M",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -130,13 +130,13 @@ kit_cz_sj_sg = [
 
 kit_cz_sj_mm = [
 	["<EQUIPEMENT >>  ","CUP_U_B_CZ_WDL_NoKneepads","CUP_V_CZ_vest18","CUP_B_ACRPara_m95","CUP_H_CZ_Helmet09","CUP_RUS_Balaclava_blk"],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_DSA_SA58_DMR","CUP_30Rnd_762x51_FNFAL_M",["muzzle_snds_B","","optic_Arco_AK_blk_F","CUP_bipod_Harris_1A2_L_BLK"]],
+	["<PRIMARY WEAPON >>  ","CUP_srifle_SVD_wdl_top_rail","CUP_10Rnd_762x54_SVD_M",["CUP_muzzle_snds_KZRZP_SVD_woodland","","optic_Arco_lush_F",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","CUP_hgun_SA61","CUP_20Rnd_B_765x17_Ball_M",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",6],["HANDGUN MAG",5]]],
-	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_wirecutter",1],["rhs_mag_an_m8hc",5],["HandGrenade",5]]]
+	["<VEST ITEMS >> ",[["HANDGUN MAG",5]]],
+	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_wirecutter",1],["rhs_mag_an_m8hc",5],["HandGrenade",5],["CUP_50Rnd_B_765x17_Ball_M",4],["10Rnd_762x54_Mag",14]]]
 ];
 
 
@@ -313,15 +313,14 @@ cargo_kit_uk_rover = [
 ///CR
 
 cargo_kit_cz_brdm = [
-	[["CUP_arifle_Sa58P",2]],
-	[["CUP_30Rnd_Sa58_M",20],["SmokeShell",2],["SmokeShellOrange",2],["Chemlight_red",2],["CUP_30Rnd_762x39_CZ807",80],["CUP_18Rnd_9x19_Phantom",1],["1Rnd_HE_Grenade_shell",10],["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",10],["CUP_30Rnd_9x19_EVO",10],["CUP_30Rnd_762x51_FNFAL_M",10],["CUP_20Rnd_B_765x17_Ball_M",10],["CUP_12Rnd_B_Saiga12_Slug",6]],
-	[["FirstAidKit",10],["Medikit",1],["ToolKit",1]],
-	[["CUP_B_ACRScout_m95_Sa58",4],["CUP_B_Podnos_Gun_Bag",1],["CUP_B_Podnos_Bipod_Bag",1]]
+	[],	[["SmokeShell",2],["SmokeShellOrange",2],["Chemlight_red",2],["CUP_30Rnd_762x39_CZ807",80],["CUP_18Rnd_9x19_Phantom",1],["1Rnd_HE_Grenade_shell",10],["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",10],["CUP_30Rnd_9x19_EVO",10],["CUP_10Rnd_762x54_SVD_M",10],["CUP_20Rnd_B_765x17_Ball_M",10],["CUP_12Rnd_B_Saiga12_Slug",6]],
+	[["ToolKit",1]],
+	[["CUP_B_Podnos_Gun_Bag",1],["CUP_B_Podnos_Bipod_Bag",1]]
 ];
 
 cargo_kit_cz_dingo = [
 	[["CUP_arifle_Sa58P",2]],
-	[["CUP_30Rnd_Sa58_M",20],["SmokeShell",2],["SmokeShellOrange",2],["Chemlight_red",2],["CUP_30Rnd_762x39_CZ807",80],["CUP_18Rnd_9x19_Phantom",1],["1Rnd_HE_Grenade_shell",10],["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",10],["CUP_30Rnd_9x19_EVO",10],["CUP_30Rnd_762x51_FNFAL_M",10],["CUP_20Rnd_B_765x17_Ball_M",10],["CUP_12Rnd_B_Saiga12_Slug",6]],
+	[["CUP_30Rnd_Sa58_M",20],["SmokeShell",2],["SmokeShellOrange",2],["Chemlight_red",2],["CUP_30Rnd_762x39_CZ807",80],["CUP_18Rnd_9x19_Phantom",1],["1Rnd_HE_Grenade_shell",10],["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",10],["CUP_30Rnd_9x19_EVO",10],["CUP_10Rnd_762x54_SVD_M",10],["CUP_20Rnd_B_765x17_Ball_M",10],["CUP_12Rnd_B_Saiga12_Slug",6]],
 	[["FirstAidKit",10],["Medikit",1],["ToolKit",1]],
 	[["CUP_B_ACRScout_m95_Sa58",4],["CUP_B_ACRPara_m95",1],["CUP_B_Kornet_Gun_Bag",1],["CUP_B_Kornet_Tripod_Bag",1]]
 ];
